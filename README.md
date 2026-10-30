@@ -21,7 +21,7 @@ This repository serves as a sandbox for exploring high-availability architecture
 
 ## 🚀 Tech Stack (Target)
 
-TBP
+Tech stack is still in Thought Process but expect Laragon, apk and exe file format, and web implementation.
 
 ---
 
