@@ -12,6 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/Tauri-Admin%20App-%2324C8D8?logo=tauri&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-Framework-%2361DAFB?logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-Styling-%2306B6D4?logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Rust-Core-%23000000?logo=rust&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-Safety-%233178C6?logo=typescript&logoColor=white)
+
 
 
 ## 🎯 Overview
