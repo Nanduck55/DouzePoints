@@ -5,15 +5,17 @@
 ## 🚀 Tech Stack (Target)
 
 ![Static Badge](https://img.shields.io/badge/Status-In%20development-yellow)
+![Static Badge](https://img.shields.io/badge/JavaScript-Runtime-%23F7DF1E?logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Laragon-Server-%230E83CD?logo=laragon&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Architecture-Decoupled-blue)
 ![Static Badge](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Laragon-Server-%230E83CD?logo=laragon&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-Safety-%233178C6?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PHP-8.x%20%7C%20PDO%20API-777BB4?logo=php&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tauri-Admin%20App-%2324C8D8?logo=tauri&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-Framework-%2361DAFB?logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-Styling-%2306B6D4?logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Rust-Core-%23000000?logo=rust&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Typescript-Safety-%233178C6?logo=typescript&logoColor=white)
+
 
 
 
